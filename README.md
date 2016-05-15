@@ -1,7 +1,3 @@
-Código fuente del Curso de Programación Android con Android Studio (www.sgoliver.net)
-
-Si te interesa el curso puedes acceder a él gratuitamente desde su web oficial:
-
-http://www.sgoliver.net/blog/?page_id=2935
-
-Fácil. Gratis. Divertido.
+# Laboratorio-1
+Cuantas tazas de café se te antojaron hoy? 
+>>>>>>> 2f59658a7e9a01bd9068088aeaa20dc1481ef456
